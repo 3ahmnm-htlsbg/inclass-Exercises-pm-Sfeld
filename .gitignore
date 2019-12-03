@@ -7,6 +7,15 @@
 [Ll]ogs/
 Assets/AssetStoreTools*
 
+
+#playmaker 
+Assets/Gizmos/
+Assets/Playmaker/
+Assets/Plugins/
+Assets/Gizmos.meta
+Assets/Playmaker.meta
+Assets/Plugins.meta
+
 # Visual Studio cache directory
 .vs/
 
